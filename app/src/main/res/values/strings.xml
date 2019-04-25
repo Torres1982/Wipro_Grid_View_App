@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sport Grid App</string>
+    <string name="image_view_description">Footballer Image</string>
+    <string name="button_back_to_main_grid">Main Menu</string>
+    <string name="button_previous_picture">Prev</string>
+    <string name="button_next_picture">Next</string>
+</resources>
